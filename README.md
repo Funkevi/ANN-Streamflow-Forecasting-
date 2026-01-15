@@ -1,6 +1,5 @@
 # 🌊 Streamflow Forecasting using Artificial Neural Networks
 
-### **Course:** UE23CS352A – Machine Learning
 ### **Project Title:** Application of Artificial Neural Network in Streamflow Forecasting
 
 ---
@@ -11,9 +10,7 @@ This project implements and compares two neural network architectures—a Standa
 
 The core objective is to model the non-linear relationship between historical precipitation and runoff to predict future streamflow, with a specific focus on evaluating model performance during extreme (peak flow) events.
 
-**Team Members:**
-- Bhoomika Hegde (PES1UG23CS147)
-- Chaitanya Gera (PES1UG23CS156)
+
 
 ---
 
@@ -42,3 +39,4 @@ To replicate the comparative analysis from the reference study by developing and
 ## 🚀 How to Run the Project
 
 Follow these steps to set up the environment and reproduce the results from scratch.
+
