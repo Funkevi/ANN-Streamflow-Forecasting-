@@ -36,7 +36,5 @@ To replicate the comparative analysis from the reference study by developing and
 
 ---
 
-## 🚀 How to Run the Project
 
-Follow these steps to set up the environment and reproduce the results from scratch.
 
